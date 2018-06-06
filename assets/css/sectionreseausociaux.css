@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+.social-icons.bordered{border-right:2px solid white}
+
+
+
+.social-icons.bordered a{border:2px solid white;
+	border-radius: 100%;
+/*	border-right:0;*/
+	padding:40px;
+	margin-right: 30px;
+	background-color:none;
+	
+	
+	-webkit-transition:all.2s ease-in-out;
+	-moz-transition:all .2s ease-in-out;
+	-o-transition:all .2s ease-in-out;
+	transition:all .2s ease-in-out}
+
+.social-icons.bordered a:hover{background-color:#00cccb;
+	
+	
+-webkit-transition:all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all.2s ease-in-out;
+	transition: all .2s ease-in-out
+
+}
+
+.social-icons.bordered a:hover i{background-image:url("file:///Macintosh HD/Users/geoffreyluc/Documents/GEOF AUTO entrepreneur/MON SITE GEOBOSS/images/css/sicon-set.png")}
+
+.social-icons.bordered-black{border-right:2px solid #292929}
+
+.social-icons.bordered-black a{border:2px solid #292929;border-right:0}
+
+.social-icons.bordered-black a:hover{background-color:#292929}
+
+.social-icons.bordered-black a:hover i{background-image:url("file:///Macintosh HD/Users/geoffreyluc/Documents/GEOF AUTO entrepreneur/MON SITE GEOBOSS/images/css/sicon-set-white.png")}
+
+.social-icons.hover-big [class^="sicon-"],
+
+.social-icons.hover-big [class*=" sicon-"]{padding:9px 8px 8px;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
+
+.social-icons.hover-big a i{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
+
+.social-icons.hover-big a:hover i{background-image:url("file:///Macintosh HD/Users/geoffreyluc/Documents/GEOF AUTO entrepreneur/MON SITE GEOBOSS/images/css/sicon-set-white.png")}
+
+.social-icons.hover-big .sicon-facebook:hover{background-color:#3b5998}
+
+.social-icons.hover-big .sicon-twitter:hover{background-color:#44cbff}
+
+.social-icons.hover-big .sicon-linkedin:hover{background-color:#1e79c0}
+
+.social-icons.hover-big .sicon-youtube:hover{background-color:#f00}
+
+.social-icons.hover-big .sicon-pinterest:hover{background-color:#d90000}
+
+.social-icons.hover-big .sicon-search:hover{background-color:#000}
+
+.social-icons.hover-big .sicon-place:hover{background-color:#000}
+
+.social-icons.hover-big .sicon-phone:hover{background-color:#000}
+
+.social-icons.hover-big .sicon-mail:hover{background-color:#000}
+
+.social-icons.hover-big .sicon-clock:hover{background-color:#000}
+
+
+.textesitation {
+	font-size: 200%;
+	/*font-family: 'andesregular';
+	 [disabled]text-indent: 48px; */
+	line-height: 39px;
+	letter-spacing: 5px;
+		
+}
+
+#twitter-feeds .fa {
+	font-size: 200%;
+	
+	
+	
+}
+
+#twitter-feeds a:hover .fa {
+	font-size: 200%;
+	color: white;
+		-webkit-transition: color .2s ease-in-out;
+	-moz-transition: color .2s ease-in-out;
+	-o-transition: color .2s ease-in-out;
+	transition:  color.2s ease-in-out
+	
+	
+}
